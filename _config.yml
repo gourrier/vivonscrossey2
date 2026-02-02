@@ -20,12 +20,12 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "VivonsCrossey 2026"
 title_separator          : "-"
 subtitle                 : "Une liste citoyenne " # site tagline that appears below site title in masthead
-name                     : "Aurélien Gourrier"
+name                     : "Aurelien Gourrier"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://gourrier.github.io/vivonscrossey2" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "gourrier/vivonscrossey2" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/VivonsCrossey.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
@@ -68,11 +68,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aurélien Gourrier"
+  name             : "�quipe VivonsCrossey 2026"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : #"I am an **amazing** person."
+  location         : "St Etienne de Crossey"
   email            :
   links:
     - label: "Email"
@@ -320,7 +320,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
