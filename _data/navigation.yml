@@ -3,7 +3,7 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Qui sommes nous ?"
-    url: /_posts/
+    url: /_posts/2026-02-01-qui-sommes-nous.md
   - title: "Nos engagements"
     url: /year-archive/
   # - title: "Sample Collections"
