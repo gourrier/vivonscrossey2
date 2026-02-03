@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "Qui sommes nous ?"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Nos engagements"
-  #   url: /year-archive/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Qui sommes nous ?"
+    url: /_posts/
+  - title: "Nos engagements"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
