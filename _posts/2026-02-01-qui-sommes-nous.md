@@ -37,4 +37,4 @@ gallery:
     title: "Christophe"
 ---
 
-{% include gallery id="gallery" class="full" caption="Les portraits." %}
+{% include gallery id="gallery" class="full" %}
