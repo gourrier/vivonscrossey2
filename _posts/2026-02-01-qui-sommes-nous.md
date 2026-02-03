@@ -15,24 +15,24 @@ gallery:
     image_path: /assets/images/A1150125-007_Sabrine_small.png
     alt: "placeholder image 2"
     title: "Sabrine"
-  - url: /assets/images/A1150125-007_Audrey_small.png
-    image_path: /assets/images/A1150125-007_Audrey_small.png
+  - url: /assets/images/A1150129-023_Audrey_small.png
+    image_path: /assets/images/A1150129-023_Audrey_small.png
     alt: "placeholder image 3"
     title: "Audrey"
-  - url: /assets/images/A1150125-007_Celine_small.png
-    image_path: /assets/images/A1150125-007_Celine_small.png
+  - url: /assets/images/A1150131-025_Celine_small.png
+    image_path: /assets/images/A1150131-025_Celine_small.png
     alt: "placeholder image 4"
     title: "Céline"
-  - url: /assets/images/A1150125-007_Kim_small.png
-    image_path: /assets/images/A1150125-007_Kim_small.png
+  - url: /assets/images/A1150136-030_Kim_small.png
+    image_path: /assets/images/A1150136-030_Kim_small.png
     alt: "placeholder image 5"
     title: "Kim"
-  - url: /assets/images/A1150125-007_Julien_small.png
-    image_path: /assets/images/A1150125-007_Julien_small.png
+  - url: /assets/images/A1150139-033_Julien_small.png
+    image_path: /assets/images/A1150139-033_Julien_small.png
     alt: "placeholder image 6"
     title: "Julien"
-  - url: /assets/images/A1150125-007_Christophe_small.png
-    image_path: /assets/images/A1150125-007_Christophe_small.png
+  - url: /assets/images/A1150141-035_Christophe_small.png
+    image_path: /assets/images/A1150141-035_Christophe_small.png
     alt: "placeholder image 6"
     title: "Christophe"
 ---
