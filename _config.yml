@@ -19,9 +19,9 @@ locale                   : "fr-FR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "VivonsCrossey 2026"
 title_separator          : "-"
-subtitle                 : "Une liste citoyenne " # site tagline that appears below site title in masthead
+subtitle                 : "Une liste citoyenne engagée pour St Étienne de Crossey" # site tagline that appears below site title in masthead
 name                     : "Aurelien Gourrier"
-description              : "An amazing website."
+description              : "Les engagements de la liste Vivons Crossey candidates aux élections municipales 2026 pour la ville de St Étienne de Crossey."
 url                      : "https://gourrier.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/vivonscrossey2" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -121,19 +121,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:contact@vivonscrossey.fr"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -147,19 +147,19 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  # url:
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
+    #  # url:
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
+    #  # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2026"
 
 
 # Reading Files
