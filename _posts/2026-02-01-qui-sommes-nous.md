@@ -15,10 +15,10 @@ gallery:
     image_path: /assets/images/A1150129-023_Audrey_small.png
     alt: "placeholder image 2"
     title: "Audrey Humbert"
-  - url: /assets/images/B1150067_François_small.png
-    image_path: /assets/images/B1150067_François_small.png
+  - url: /assets/images/B1150067_Francois_small.png
+    image_path: /assets/images/B1150067_Francois_small.png
     alt: "placeholder image 3"
-    title: "François Guillier"	
+    title: "Francois Guillier"	
   - url: /assets/images/A1150136-030_Kim_small.png
     image_path: /assets/images/A1150136-030_Kim_small.png
     alt: "placeholder image 4"
