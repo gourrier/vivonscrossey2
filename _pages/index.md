@@ -3,14 +3,17 @@ layout: splash
 permalink: /
 hidden: false
 header:
-  #overlay_color: "#5e616c"
+  # overlay_color: "#5e616c"
   overlay_image:  /assets/images/VivonsCrossey.jpg
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
+  caption: "Photo credit: André Bianco"
 excerpt: >
   VivonsCrossey 2026
 ---
+
+![Image](/assets/images/VivonsCrossey.jpg)
 
 Habitant.es de Crossey et profondément attaché.es à notre village, nous avons fait le choix de constituer l’équipe **« Vivons Crossey »**, une liste sans étiquette, indépendante et tournée vers l’avenir.
 
