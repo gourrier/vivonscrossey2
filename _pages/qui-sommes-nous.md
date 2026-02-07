@@ -1,4 +1,5 @@
 ---
+layout: splash
 # title: "Layout: Header Image and Text Readability"
 # header:
 #   image: /assets/images/A1150180-074_Fabrice_small.png
