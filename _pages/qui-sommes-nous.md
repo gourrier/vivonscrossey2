@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 # permalink: /
 hidden: false
 # title: "Layout: Header Image and Text Readability"
