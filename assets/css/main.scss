@@ -6,4 +6,7 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+$type-size-3: 1.5em; // This is the variable used for the site title
+
 @import "minimal-mistakes"; // main partials
