@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+# permalink: /
 hidden: false
 # title: "Layout: Header Image and Text Readability"
 # header:
