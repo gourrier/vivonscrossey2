@@ -2,14 +2,14 @@
 layout: splash
 permalink: /
 hidden: false
-header:
-  # overlay_color: "#5e616c"
-  # image:  /assets/images/VivonsCrossey.jpg
-  # overlay_image:  /assets/images/VivonsCrossey.jpg
-  # actions:
-  #  - label: "<i class='fas fa-download'></i> Install now"
-  #    url: "/docs/quick-start-guide/"
-  # caption: "Photo credit: André Bianco"
+# header:
+#   overlay_color: "#5e616c"
+#   image:  /assets/images/VivonsCrossey.jpg
+#   overlay_image:  /assets/images/VivonsCrossey.jpg
+#   actions:
+#    - label: "<i class='fas fa-download'></i> Install now"
+#      url: "/docs/quick-start-guide/"
+#   caption: "Photo credit: André Bianco"
 # excerpt: >
 #   VivonsCrossey 2026
 gallery:
