@@ -1,7 +1,7 @@
 ---
 layout: splash
-# permalink: /
-# hidden: false
+permalink: /
+hidden: false
 header:
   # overlay_color: "#5e616c"
   image:  /assets/images/VivonsCrossey.jpg
