@@ -5,6 +5,7 @@ categories:
   - Post Formats
 tags:
   - Post Formats
+classes: wide
 ---
 
 *"Je suis né à côté de Rouen où j’ai passé mes 20 premières années. Je suis ensuite parti à Metz pour mes études où j’ai passé 17 ans. En 1996, ma compagne et moi avons accepté ma mutation professionnelle à Grenoble avant de nous installer et de nous marier à Crossey en 1997. Nous souhaitions créer notre famille à la campagne, dans une maison au calme pouvant accueillir famille et amis. Saint-Etienne de Crossey fut notre coup de cœur !*
