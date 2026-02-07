@@ -106,4 +106,6 @@ gallery:
     title: "Arnaud Fournier"
 ---
 
+Cliquer sur les portraits pour en savoir plus ^^
+
 {% include gallery id="gallery" %}
