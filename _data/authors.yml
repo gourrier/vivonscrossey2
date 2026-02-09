@@ -1,8 +1,13 @@
 Fabrice Hure:
   name        : "Fabrice Hure"
-  bio         : "67 ans, Ingenieur retraite."
+  bio         : "40 ans, Assistante administrative indépendante."
   avatar      : "/assets/images/A1150180-074_Fabrice_small.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:contact@vivonscrossey.fr"
+
+Audrey Humbert:
+  name        : "Audrey Humbert"
+  bio         : "67 ans, Ingenieur retraite."
+  avatar      : "/assets/images/A1150129-023_Audrey_small.png"
