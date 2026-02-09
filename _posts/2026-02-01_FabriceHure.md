@@ -5,6 +5,7 @@ categories:
   - Post Formats
 tags:
   - Post Formats
+author: Fabrice Hure
 classes: wide
 ---
 
