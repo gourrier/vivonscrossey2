@@ -4,8 +4,7 @@ layout: splash
 hidden: false
 title: ""
 gallery:
-#  - url: /assets/images/A1150180-074_Fabrice_small.png
-  - url: /_posts/2026-02-01_FabriceHure.md
+  - url: /assets/images/A1150180-074_Fabrice_small.png
     image_path: /assets/images/A1150180-074_Fabrice_small.png
     alt: "placeholder image 1"
     title: "Fabrice Hure"	
