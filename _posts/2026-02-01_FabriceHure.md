@@ -2,6 +2,7 @@
 layout: single
 title: ""
 author: "Fabrice Hure"
+author_profile: true
 classes: wide
 categories:
   - Post Formats

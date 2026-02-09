@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ""
+author_profile: true
 author: "Audrey Humbert"
 classes: wide
 categories:
