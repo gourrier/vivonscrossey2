@@ -1,7 +1,7 @@
 Fabrice Hure:
   name        : "Fabrice Hure"
-  bio         : "40 ans, Assistante administrative indépendante."
-  avatar      : "/assets/images/A1150180-074_Fabrice_small.png"
+  bio         : "67 ans, Ingenieur retraite."
+  avatar      : "/assets/images/A1150180-074_Fabrice_small2.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -9,5 +9,5 @@ Fabrice Hure:
 
 Audrey Humbert:
   name        : "Audrey Humbert"
-  bio         : "67 ans, Ingenieur retraite."
-  avatar      : "/assets/images/A1150129-023_Audrey_small.png"
+  bio         : "40 ans, Assistante administrative indépendante."
+  avatar      : "/assets/images/A1150129-023_Audrey_small2.png"
