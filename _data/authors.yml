@@ -17,7 +17,17 @@ Francois Guillier:
   bio         : "64 ans, Ingénieur retraité."
   avatar      : "/assets/images/Francois_small2.png"
 
-Kim Quentinr:
+Kim Quentin:
   name        : "Kim Quentin"
   bio         : "40 ans, Ingénieure."
   avatar      : "/assets/images/Kim_small2.png"
+
+Laurent Bouchard:
+  name        : "Laurent Bouchard"
+  bio         : "55 ans, Chargé de clientèle SNCF ENERGIE."
+  avatar      : "/assets/images/Laurent_small2.png"
+
+Johanna Boulos:
+  name        : "Johanna Boulos"
+  bio         : "44 ans, Ingénieure EDF Eau & Environnement."
+  avatar      : "/assets/images/Johanna_small2.png"

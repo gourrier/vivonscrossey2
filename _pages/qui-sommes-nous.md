@@ -20,12 +20,12 @@ gallery:
     image_path: /assets/images/Kim_small2.png
     alt: "placeholder image 4"
     title: "Kim Quentin-Lu"
-  - url: /assets/images/A1150170-064_Laurent_small.png
-    image_path: /assets/images/Laurent_small.png
+  - url: /_posts/2026-02-01_LaurentBouchard
+    image_path: /assets/images/Laurent_small2.png
     alt: "placeholder image 5"
     title: "Laurent Bouchard"
-  - url: /assets/images/B1150079_Johanna_small.png
-    image_path: /assets/images/Johanna_small.png
+  - url: /_posts/2026-02-01_JohannaBoulos
+    image_path: /assets/images/Johanna_small2.png
     alt: "placeholder image 6"
     title: "Johana Boulos"	
   - url: /assets/images/Andre_small.png
