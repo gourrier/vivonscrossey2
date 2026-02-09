@@ -46,3 +46,13 @@ Jean-Luc_Bertholet:
   name        : "Jean-Luc_Bertholet"
   bio         : "64 ans, Gérant de sociétés retraité."
   avatar      : "/assets/images/Jean-Luc_small2.png"
+  
+Catherine Dalles:
+  name        : "Catherine Dalles"
+  bio         : "64 ans, Professeure de dessin."
+  avatar      : "/assets/images/Catherine_small2.png"
+
+Aurelien Gourrier:
+  name        : "Aurelien Gourrier"
+  bio         : "51 ans, Chercheur CNRS."
+  avatar      : "/assets/images/Aurelien_small2.png"

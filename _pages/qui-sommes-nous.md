@@ -40,12 +40,12 @@ gallery:
     image_path: /assets/images/Jean-Luc_small2.png
     alt: "placeholder image 9"
     title: "Jean-Luc Bertholet"	
-  - url: /assets/images/Catherine_small.png
-    image_path: /assets/images/Catherine_small.png
+  - url: /_posts/2026-02-01_CatherineDalles
+    image_path: /assets/images/Catherine_small2.png
     alt: "placeholder image 10"
     title: "Catherine Dalles"
-  - url: /assets/images/Aurelien_small.png
-    image_path: /assets/images/Aurelien_small.png
+  - url: /_posts/2026-02-01_AurelienGourrier
+    image_path: /assets/images/Aurelien_small2.png
     alt: "placeholder image 11"
     title: "Aurelien Gourrier"
   - url: /assets/images/Claire_small.png
