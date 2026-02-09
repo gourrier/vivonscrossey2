@@ -18,3 +18,5 @@ tags:
 *Je suis très attaché à faire évoluer ce village en lui conservant son charme et son histoire, en imaginant des aménagements fonctionnels qui respectent l’identité du village et son environnement.*
 
 *Gérant de société pendant 30 ans, je me sens par ailleurs très concerné par le maintien et le développement des commerces et des entreprises sur notre commune."*
+
+[Profil suivant]({% /_posts/2026-02-01_CatherineDalles %})
