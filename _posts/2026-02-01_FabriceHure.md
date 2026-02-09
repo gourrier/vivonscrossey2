@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-author: Fabrice Hure
+author: "Fabrice Hure"
 classes: wide
 categories:
   - Post Formats

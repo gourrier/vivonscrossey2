@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-author: Audrey Humbert
+author: "Audrey Humbert"
 classes: wide
 categories:
   - Post Formats
