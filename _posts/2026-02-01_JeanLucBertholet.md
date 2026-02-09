@@ -19,4 +19,4 @@ tags:
 
 *Gérant de société pendant 30 ans, je me sens par ailleurs très concerné par le maintien et le développement des commerces et des entreprises sur notre commune."*
 
-[Profil suivant]({% /_posts/2026-02-01_CatherineDalles %})
+[Profil suivant]({% post_url 2026-02-01_CatherineDalles %})

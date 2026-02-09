@@ -19,4 +19,4 @@ tags:
 
 *Conscient des enjeux, je mets au service de la collectivité mon temps et mon énergie pour la gestion des préoccupations sociales, environnementales et économiques que l’avenir nous réserve."*
 
-[Profil suivant]({% /_posts/2026-02-01_SophieAudinos %})
+[Profil suivant]({% post_url 2026-02-01_SophieAudinos %})

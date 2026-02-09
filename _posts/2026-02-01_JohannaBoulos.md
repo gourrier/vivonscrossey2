@@ -19,4 +19,4 @@ tags:
 
 *Mon engagement au sein de la liste « Vivons Crossey » s’inscrit naturellement dans cette dynamique : agir concrètement, dans un esprit de solidarité et de dialogue, pour une commune durable, vivante et tournée vers ses habitants et le bien vivre ensemble."*
 
-[Profil suivant]({% /_posts/2026-02-01_AndreBianco %})
+[Profil suivant]({% post_url 2026-02-01_AndreBianco %})

@@ -20,3 +20,5 @@ tags:
 *Ma vie professionnelle consiste à accompagner les collectivités pour la prévention et la gestion des déchets.*
 
 *Si je m’engage avec l’équipe VIVONS CROSSEY, c’est que nous réunissons des profils variés et complémentaires, capables de comprendre les besoins de tous les habitants et d’assumer les responsabilités des nombreuses tâches de gestion d’une commune. Cette énergie collective me donne envie de franchir un cap et m’engager pleinement."*
+
+[Profil suivant]({% post_url 2026-02-01_LaurentBouchard %})

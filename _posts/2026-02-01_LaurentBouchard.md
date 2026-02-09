@@ -20,4 +20,4 @@ tags:
 *Pourquoi m’engager sur une liste municipale ? Et bien après avoir été consommateur, et prêté main forte, souvent en famille à la MPT, au sou des écoles…, je souhaite contribuer et devenir acteur avec la volonté de faire mieux mais avec moins, avec pragmatisme, ne pas se laisser enfermer dans des schémas binaires et rechercher des compromis.
 Motivé par la richesse des missions, pour le bien de tous, l’action pour améliorer le bien vivre à Crossey, avec bienveillance, solidarité et conscient des enjeux environnementaux."*
 
-[Profil suivant]({% /_posts/2026-02-01_JohannaBoulos %})
+[Profil suivant]({% post_url 2026-02-01_JohannaBoulos %})
