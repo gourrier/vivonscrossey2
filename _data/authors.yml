@@ -1,7 +1,7 @@
 Fabrice Hure:
-  name        : "Fabrice Hure"
-  bio         : "67 ans, Ingenieur retraite."
-  avatar      : "/assets/images/A1150180-074_Fabrice_small2.png"
+  name        : "Fabrice Huré"
+  bio         : "67 ans, Ingénieur retraité."
+  avatar      : "/assets/images/Fabrice_small2.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -10,9 +10,14 @@ Fabrice Hure:
 Audrey Humbert:
   name        : "Audrey Humbert"
   bio         : "40 ans, Assistante administrative indépendante."
-  avatar      : "/assets/images/A1150129-023_Audrey_small2.png"
+  avatar      : "/assets/images/Audrey_small2.png"
 
 Francois Guillier:
   name        : "Francois Guillier"
-  bio         : "64 ans, Ingenieur retraite."
-  avatar      : "/assets/images/B1150067_Francois_small2.png"
+  bio         : "64 ans, Ingénieur retraité."
+  avatar      : "/assets/images/Francois_small2.png"
+
+Kim Quentinr:
+  name        : "Kim Quentin"
+  bio         : "40 ans, Ingénieure."
+  avatar      : "/assets/images/Kim_small2.png"
