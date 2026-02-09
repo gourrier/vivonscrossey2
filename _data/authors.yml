@@ -31,3 +31,18 @@ Johanna Boulos:
   name        : "Johanna Boulos"
   bio         : "44 ans, Ingénieure EDF Eau & Environnement."
   avatar      : "/assets/images/Johanna_small2.png"
+
+Andre Bianco:
+  name        : "Andre Bianco"
+  bio         : "63 ans, Ingénieur retraité."
+  avatar      : "/assets/images/Andre_small2.png"
+
+Sophie Audinos:
+  name        : "Sophie Audinos"
+  bio         : "42 ans, Comptable."
+  avatar      : "/assets/images/Sophie_small2.png"
+
+Jean-Luc_Bertholet:
+  name        : "Jean-Luc_Bertholet"
+  bio         : "64 ans, Gérant de sociétés retraité."
+  avatar      : "/assets/images/Jean-Luc_small2.png"

@@ -28,16 +28,16 @@ gallery:
     image_path: /assets/images/Johanna_small2.png
     alt: "placeholder image 6"
     title: "Johana Boulos"	
-  - url: /assets/images/Andre_small.png
-    image_path: /assets/images/Andre_small.png
+  - url: /_posts/2026-02-01_AndreBianco
+    image_path: /assets/images/Andre_small2.png
     alt: "placeholder image 7"
     title: "Andre Bianco"	
-  - url: /assets/images/Sophie_small.png
-    image_path: /assets/images/Sophie_small.png
+  - url: /_posts/2026-02-01_SophieAudinos
+    image_path: /assets/images/Sophie_small2.png
     alt: "placeholder image 8"
     title: "Sophie Audinos"
-  - url: /assets/images/Jean-Luc_small.png
-    image_path: /assets/images/Jean-Luc_small.png
+  - url: /_posts/2026-02-01_JeanLucBertholet
+    image_path: /assets/images/Jean-Luc_small2.png
     alt: "placeholder image 9"
     title: "Jean-Luc Bertholet"	
   - url: /assets/images/Catherine_small.png
