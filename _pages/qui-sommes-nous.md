@@ -61,7 +61,7 @@ gallery:
     alt: "placeholder image 14"
     title: "Sabrine Rout"
   - url: /_posts/2026-02-01_MatthieuJanowski
-    image_path: /assets/images/Mathieu_small.png
+    image_path: /assets/images/Matthieu_small.png
     alt: "placeholder image 15"
     title: "Matthieu Janowski"	
   - url: /_posts/2026-02-01_NathalieGay
