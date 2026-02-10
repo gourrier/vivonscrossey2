@@ -17,4 +17,4 @@ tags:
 
 *Vous m'avez peut-être déjà croisé à VTT (ma passion) sur les chemins aux alentours, ou sur un cours de tennis (je suis trésorier du TCC depuis pas mal d'années). Vous me retrouverez, je l'espère, dans les domaines de la gestion des associations, du sport ou de la jeunesse."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_NathalieGay/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_CelineAuria/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_NathalieGay/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_CelineAuria/' | relative_url }})

@@ -19,4 +19,4 @@ tags:
 
 *Je suis convaincu que favoriser le covoiturage, les transports partagés et les mobilités douces représente un levier essentiel pour réduire les émissions de gaz à effet de serre et apporter du bien vivre sur Crossey. Il s’agit là de sujets prioritaires et concrets, en lien direct avec les enjeux de transition énergétique et d’adaptation au réchauffement climatique auxquels notre commune doit répondre plus que jamais."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_AudreyHumbert/' | relative_url }}) [Profil suivant]({{ '/_posts/2026-02-01_KimQuentin/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_AudreyHumbert/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_KimQuentin/' | relative_url }})

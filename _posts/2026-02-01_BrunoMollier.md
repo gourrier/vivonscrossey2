@@ -17,4 +17,4 @@ tags:
 
 *Pour ma part, je m'engage sur cette liste car j'ai à cœur de continuer à faire vivre et pouvoir améliorer à mon niveau le village et ses hameaux. Il me semble normal d'apporter ma pierre à l'édifice de cette commune qui m'a beaucoup apporté jusqu'à maintenant."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_ClaireRivier/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_SabrineRout/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_ClaireRivier/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_SabrineRout/' | relative_url }})

@@ -17,4 +17,4 @@ tags:
 
 *À travers ce mandat, mon objectif est de renforcer le lien social et le bien vivre ensemble, tout en veillant à un cadre de vie respectueux de l'environnement et du bien-être de toutes et tous."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_HenriLachaise/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_JulienNicolas/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_HenriLachaise/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_JulienNicolas/' | relative_url }})

@@ -22,4 +22,4 @@ Me voilà repartie pour une nouvelle aventure avec une équipe renouvelée et ri
 
 *Aujourd'hui retraitée encore en activité (cours de dessin peinture, gardienne de maison et grand-mère de 5 petits enfants), je souhaite encore m'impliquer et proposer mon dynamisme pour le bien être des habitants de notre accueillant village."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_JeanLucBertholet/' | relative_url }}) [Profil suivant]({{ '/_posts/2026-02-01_AurelienGourrier/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_JeanLucBertholet/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_AurelienGourrier/' | relative_url }})

@@ -19,4 +19,4 @@ tags:
 
 *Je souhaite m’investir aux côtés de l’équipe Vivons Crossey pour pousser des projets concrets, nés d’une écoute attentive et bienveillante des besoins et des attentes des Stéphanoises et Stéphanois."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_MatthieuJanowski/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_ChristophePerret/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_MatthieuJanowski/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_ChristophePerret/' | relative_url }})

@@ -13,4 +13,4 @@ tags:
 
 *"À venir."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_JulienNicolas/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_FlorentPlantier/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_JulienNicolas/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_FlorentPlantier/' | relative_url }})

@@ -19,4 +19,4 @@ tags:
 
 *J'ai fait ma carrière professionnelle dans les Travaux Publics, maintenant je suis à la retraite et donc beaucoup plus disponible. C'est pour cela que je rejoins cette liste "Vivons Crossey" pour m'investir dans ma commune, apporter mon savoir-faire car j'aime notre village et je souhaite pouvoir garder cette douceur de vivre."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_CelineAuria/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_SabrinaRosset/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_CelineAuria/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_SabrinaRosset/' | relative_url }})

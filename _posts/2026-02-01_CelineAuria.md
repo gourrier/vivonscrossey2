@@ -19,4 +19,4 @@ tags:
 
 *Mon engagement dans Vivons Crossey intervient à un moment où j'ai plus de temps libre (mes filles ont grandi !), je me sens entourée d'une équipe solide, de personnes motivées à endosser des engagements importants , de profils différents, source de débats enrichissants... une nouvelle aventure humaine !."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_ChristophePerret/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_HenriLachaise/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_ChristophePerret/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_HenriLachaise/' | relative_url }})

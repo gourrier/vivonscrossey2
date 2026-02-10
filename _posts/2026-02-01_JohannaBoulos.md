@@ -19,4 +19,4 @@ tags:
 
 *Mon engagement au sein de la liste « Vivons Crossey » s’inscrit naturellement dans cette dynamique : agir concrètement, dans un esprit de solidarité et de dialogue, pour une commune durable, vivante et tournée vers ses habitants et le bien vivre ensemble."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_LaurentBouchard/' | relative_url }}) [Profil suivant]({{ '/_posts/2026-02-01_AndreBianco/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_LaurentBouchard/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_AndreBianco/' | relative_url }})

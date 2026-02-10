@@ -18,4 +18,4 @@ tags:
    - *Il me semble également important de lutter contre l’isolement en proposant de nouvelles opportunités de rencontres afin que chacun, quels que soient son âge et son niveau d’autonomie, puisse tisser des liens sociaux pérennes. Renforcer les liens entre jeunes et moins jeunes me tient notamment particulièrement à cœur.*
    - *Enfin, j’aimerais œuvrer à une meilleure intégration des nouveaux arrivants sur la commune. Qu’il soit originaire du Voironnais ou venu de bien plus loin, qu’il arrive en famille ou seul, chacun doit pouvoir rapidement trouver sa place dans notre village et contribuer au « Bon Vivre à Crossey »."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_FlorentPlantier/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_ArnaudFournier/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_FlorentPlantier/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_ArnaudFournier/' | relative_url }})

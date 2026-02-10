@@ -13,4 +13,4 @@ tags:
 
 *"À venir."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_SabrineRout/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_NathalieGay/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_SabrineRout/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_NathalieGay/' | relative_url }})

@@ -18,4 +18,4 @@ Par ailleurs, je suis engagée depuis huit ans en tant que membre élue du CSE d
 
 *Aujourd’hui, je souhaite mettre cette expérience et ces valeurs au service d’un engagement collectif, au sein de l’équipe Vivons Crossey, afin de porter ces préoccupations avec sérieux et responsabilité."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_AndreBianco/' | relative_url }}) [Profil suivant]({{ '/_posts/2026-02-01_JeanLucBertholet/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_AndreBianco/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_JeanLucBertholet/' | relative_url }})

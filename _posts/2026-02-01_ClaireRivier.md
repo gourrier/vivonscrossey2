@@ -17,4 +17,4 @@ tags:
 
 *Aujourd'hui j'ai à cœur de préserver ce qui m'a été offert ici depuis 13 ans à St Etienne de Crossey alors pourquoi ne pas se battre pour notre environnement ? Mettre nos compétences pour améliorer les bâtiments, faire de l'économie d'énergie un mode de vie, prendre soin de la biodiversité, repenser l'aménagement de territoire pour concilier tous les besoins et tous les habitants, c'est un défi et c'est la raison pour laquelle je souhaite m'investir dans la liste Vivons Crossey. Toutes les compétences et les bonnes volontés sont réunies dans cette liste pour faire aboutir des projets de qualité."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_AurelienGourrier/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_BrunoMollier/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_AurelienGourrier/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_BrunoMollier/' | relative_url }})

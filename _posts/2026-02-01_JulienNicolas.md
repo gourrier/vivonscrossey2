@@ -23,4 +23,4 @@ tags:
 
 *C'est avec cet esprit d'engagement, de proximité et de volonté d'agir que je souhaite aujourd'hui m'impliquer d'avantage pour mon village."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_SabrinaRosset/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_AureliePicton/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_SabrinaRosset/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_AureliePicton/' | relative_url }})
