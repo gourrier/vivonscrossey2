@@ -11,12 +11,10 @@ tags:
 ---
 
 
-*"L'engagement est une donnée familiale chez nous ! L'engagement au sein de différents mouvements ou associations m'a toujours nourrie : autour de ma pratique individuelle sportive, pour mes enfants, dans mon métier, j'ai souvent pris parti à la conception, à l’organisation, à la continuité des voies que j'ai choisies.*
+*"Je vis a Crossey depuis 21 ans, et dans le voironnais depuis 30 ans. Notre choix de vie a toujours été la campagne. A Crossey, nous avons trouvé la tranquillité, une situation idéale pour nos activités familiales et sportives, et un cadre de vie reposant et accueillant. Je souhaite préserver tous ces acquis, en faisant avancer le village sans perdre de vue cette qualité de vie.*
 
-*Je crois (encore !) au sens du service public : je suis motivée par le désir de servir l’intérêt général. C'est une valeur tout à fait désuète en 2026, et pourtant j'y crois !! La simplicité, la gratuité, la neutralité, je suis prête à consacrer du temps et de l'énergie à la satisfaction des besoins de la communauté. J'aime aller au contact des gens, discuter, échanger, comprendre des points de vue différents, expliquer, faire des liens...*
+*L'engagement que jai pris est tout d'abord un choix personnel que je murissais depuis longtemps. Mais les personnes que jai rencontré dans la liste "Vivons crossey" m'ont définitivement convaincu. Leurs compétences remarquables, la diversité des profils, les motivations de chacun nous promettent une belle aventure.*
 
-*Je n'ai pas compétences techniques poussées dans un domaine particulier, j'apporterai mon savoir être, mes idées, mes questionnements, ma bonne volonté, mon vécu au sein des pôles cultures, participations citoyennes ou du vivre ensemble.*
-
-*Mon engagement dans Vivons Crossey intervient à un moment où j'ai plus de temps libre (mes filles ont grandi !), je me sens entourée d'une équipe solide, de personnes motivées à endosser des engagements importants , de profils différents, source de débats enrichissants... une nouvelle aventure humaine !."*
+*Vous m'avez peut-être déjà croisé à VTT (ma passion) sur les chemins aux alentours, ou sur un cours de tennis (je suis trésorier du TCC depuis pas mal d'années). Vous me retrouverez, je l'espère, dans les domaines de la gestion des associations, du sport ou de la jeunesse."*
 
 [Profil précédent]({{ '/_posts/2026-02-01_NathalieGay/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_CelineAuria/' | relative_url }})

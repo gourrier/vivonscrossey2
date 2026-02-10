@@ -48,59 +48,59 @@ gallery:
     image_path: /assets/images/Aurelien_small.png
     alt: "placeholder image 11"
     title: "Aurelien Gourrier"
-  - url: /assets/images/Claire_small.png
+  - url: /_posts/2026-02-01_ClaireRivier
     image_path: /assets/images/Claire_small.png
     alt: "placeholder image 12"
     title: "Claire Rivier-Vial"
-  - url: /assets/images/Bruno_small.png
+  - url: /_posts/2026-02-01_BrunoMollier
     image_path: /assets/images/Bruno_small.png
     alt: "placeholder image 13"
     title: "Bruno Mollier"	
-  - url: /assets/images/Sabrine_small.png
+  - url: /_posts/2026-02-01_SabrineRout
     image_path: /assets/images/Sabrine_small.png
     alt: "placeholder image 14"
     title: "Sabrine Rout"
-  - url: /assets/images/Mathieu_small.png
+  - url: /_posts/2026-02-01_MatthieuJanowski
     image_path: /assets/images/Mathieu_small.png
     alt: "placeholder image 15"
     title: "Matthieu Janowski"	
-  - url: /assets/images/Nathalie_small.png
+  - url: /_posts/2026-02-01_NathalieGay
     image_path: /assets/images/Nathalie_small.png
     alt: "placeholder image 16"
     title: "Nathalie Gay"
-  - url: /assets/images/Christophe_small.png
+  - url: /_posts/2026-02-01_ChristophePerret
     image_path: /assets/images/Christophe_small.png
     alt: "placeholder image 17"
     title: "Christophe Perret"
-  - url: /assets/images/eline_small.png
+  - url: /_posts/2026-02-01_CelineAuria
     image_path: /assets/images/Celine_small.png
     alt: "placeholder image 18"
     title: "Celine Auria"
-  - url: /assets/images/Henri_small.png
+  - url: /_posts/2026-02-01_HenriLachaise
     image_path: /assets/images/Henri_small.png
     alt: "placeholder image 19"
     title: "Henri Lachaise"	
-  - url: /assets/images/Sabrina_small.png
+  - url: /_posts/2026-02-01_SabrinaRout
     image_path: /assets/images/Sabrina_small.png
     alt: "placeholder image 20"
     title: "Sabrina Rosset"	
-  - url: /assets/images/Julien_small.png
+  - url: /_posts/2026-02-01_JulienNicolas
     image_path: /assets/images/Julien_small.png
     alt: "placeholder image 21"
     title: "Julien Nicolas"
-  - url: /assets/images/Aurelie_small.png
+  - url: /_posts/2026-02-01_AureliePicton
     image_path: /assets/images/Aurelie_small.png
     alt: "placeholder image 22"
     title: "Aurelie Picton"
-  - url: /assets/images/Florent_small.png
+  - url: /_posts/2026-02-01_FlorentPlantier
     image_path: /assets/images/Florent_small.png
     alt: "placeholder image 23"
     title: "Florent Plantier"	
-  - url: /assets/images/Soizic_small.png
+  - url: /_posts/2026-02-01_SoizicBlais
     image_path: /assets/images/Soizic_small.png
     alt: "placeholder image 24"
     title: "Soizic Blais"	
-  - url: /assets/images/Arnaud_small.png
+  - url: /_posts/2026-02-01_ArnaudFournier
     image_path: /assets/images/Arnaud_small.png
     alt: "placeholder image 25"
     title: "Arnaud Fournier"

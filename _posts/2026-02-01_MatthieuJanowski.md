@@ -2,7 +2,7 @@
 layout: single
 title: ""
 author_profile: true
-author: "Matthieu Janovski"
+author: "Matthieu Janowski"
 classes: wide
 categories:
   - Post Formats
