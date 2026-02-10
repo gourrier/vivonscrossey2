@@ -21,4 +21,4 @@ tags:
 
 *Si je m’engage avec l’équipe VIVONS CROSSEY, c’est que nous réunissons des profils variés et complémentaires, capables de comprendre les besoins de tous les habitants et d’assumer les responsabilités des nombreuses tâches de gestion d’une commune. Cette énergie collective me donne envie de franchir un cap et m’engager pleinement."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_FrançoisGuillier/' | relative_url }}) [Profil suivant]({{ '/_posts/2026-02-01_LaurentBouchard/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_FrancoisGuillier/' | relative_url }}) [Profil suivant]({{ '/_posts/2026-02-01_LaurentBouchard/' | relative_url }})

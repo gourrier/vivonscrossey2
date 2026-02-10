@@ -21,4 +21,4 @@ tags:
 
 *En ces temps extrêmement compliqués et anxiogènes, j'aurai deux priorités au sein de cette équipe municipale: 1) faire en sorte que les enfants et les jeunes de Crossey puissent s'y épanouir et préparer leur futur, notre futur, dans les meilleures conditions possibles; 2) contribuer à mettre en place des solutions de résilience, pratiques et concrètes, face aux changements climatiques, environnementaux, sociaux et économiques qui se profilent dans notre commune."*
 
-[Profil précédent]({{ '/_posts/2026-02-01_CatherineDalles/' | relative_url }})
+[Profil précédent]({{ '/_posts/2026-02-01_CatherineDalles/' | relative_url }})  [Profil suivant]({{ '/_posts/2026-02-01_ClaireRivier/' | relative_url }})

@@ -56,3 +56,73 @@ Aurelien Gourrier:
   name        : "Aurelien Gourrier"
   bio         : "51 ans, Chercheur CNRS."
   avatar      : "/assets/images/Aurelien_small2.png"
+
+Claire Rivier:
+  name        : "Claire Rivier"
+  bio         : "38 ans, Géomètre Expert."
+  avatar      : "/assets/images/Claire_small2.png"
+
+Bruno Mollier:
+  name        : "Bruno Mollier"
+  bio         : "51 ans, Ouvrier Métallurgiste."
+  avatar      : "/assets/images/Bruno_small2.png"
+
+Sabrine Rout:
+  name        : "Sabrine Rout"
+  bio         : "32 ans, Responsable Compte."
+  avatar      : "/assets/images/Sabrine_small2.png"
+
+Matthieu Janovski:
+  name        : "Matthieu Janovski"
+  bio         : "40 ans, Artisan."
+  avatar      : "/assets/images/Matthieu_small2.png"
+
+Nathalie Gay:
+  name        : "Nathalie Gay"
+  bio         : "56 ans, Infirmière Puericultrice."
+  avatar      : "/assets/images/Nathalie_small2.png"
+  
+Christophe Perret:
+  name        : "Christophe Perret"
+  bio         : "58 ans, Chef de projet informatique."
+  avatar      : "/assets/images/Christophe_small2.png"
+
+Celine Auria:
+  name        : "Celine Auria"
+  bio         : "51 ans, Professeure des écoles."
+  avatar      : "/assets/images/Celine_small2.png"
+  
+Henri Lachaise:
+  name        : "Henri Lachaise"
+  bio         : "60 ans, Conducteur travaux publics retraité."
+  avatar      : "/assets/images/Henri_small2.png"
+
+Sabrina Rosset:
+  name        : "Sabrina Rosset"
+  bio         : "42 ans, Psychologue."
+  avatar      : "/assets/images/Sabrina_small2.png"
+
+Julien Nicolas:
+  name        : "Julien Nicolas"
+  bio         : "44 ans, Fonctionnaire."
+  avatar      : "/assets/images/Julien_small2.png"
+
+Aurelie Picton:
+  name        : "Aurelie Picton"
+  bio         : "44 ans, Pharmacienne."
+  avatar      : "/assets/images/Aurelie_small2.png"
+
+Florent Plantier:
+  name        : "Florent Plantier"
+  bio         : "51 ans, Pompier."
+  avatar      : "/assets/images/Florent_small2.png"
+  
+Soizic Blais:
+  name        : "Soizic Blais"
+  bio         : "62 ans, Ingénieure R&D retraitée."
+  avatar      : "/assets/images/Soizic_small2.png"
+  
+Arnaud Fournier:
+  name        : "Arnaud Fournier"
+  bio         : "54 ans, Entrepreneur."
+  avatar      : "/assets/images/Arnaud_small2.png"
