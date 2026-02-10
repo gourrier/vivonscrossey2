@@ -19,5 +19,3 @@ tags:
 Tous trois vont au multi-accueil les Zébulons, puis aux écoles de la Mayoussière. Je m'investis dans le bureau de la crèche puis en tant que parent délégué à la maternelle puis l'élémentaire.*
 
 *J'aime mon village, sa diversité culturelle, ses animations, l'investissement des Stéphanois pour rendre la vie douce et animée, son intérêt grandissant pour la préservation de la faune et la flore. C'est pourquoi il est important pour moi de pouvoir m'investir encore plus en rejoignant "Vivons Crossey". "*
-
-[Profil suivant]({% post_url 2026-02-01_FrançoisGuillier %})
