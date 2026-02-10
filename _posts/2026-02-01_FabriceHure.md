@@ -18,4 +18,4 @@ tags:
 
 *Dans le sillage de nos élus passés et actuels et avec le concours actif des agents municipaux, je souhaite mettre en œuvre activement mes compétences, mes expériences et une partie de mon temps au service des stéphanoises, des stéphanois (sans oublier les habitant(e)s de nos communes voisines et partenaires) pour animer une équipe municipale « Vivons Crossey » prête à affronter les défis sociétaux et environnementaux de 2026 avec l’énergie attendue pour passer à l’action avec bienveillance et solidarité."*
 
-[![Profil suivant]({% post_url 2026-02-01_AudreyHumbert %})]
+[![Profil suivant]({% post_url /_posts/2026-02-01_AudreyHumbert %})]
