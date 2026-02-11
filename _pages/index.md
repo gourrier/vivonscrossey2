@@ -5,7 +5,7 @@ hidden: false
 header:
   # overlay_color: "#5e616c"
   image:  /assets/images/VivonsCrossey.jpg
-  # overlay_image:  /assets/images/VivonsCrossey.jpg
+  # overlay_image:  /assets/images/VivonsCrossey_crop.jpg
   # actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
