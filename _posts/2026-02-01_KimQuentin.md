@@ -17,8 +17,6 @@ tags:
 
 *Convaincue que « le meilleur moyen de prédire le futur, c’est de le créer », je suis persuadée qu’agir localement est la meilleure façon de contribuer à une société plus cohérente.*
 
-*Ma vie professionnelle consiste à accompagner les collectivités pour la prévention et la gestion des déchets.*
-
 *Si je m’engage avec l’équipe VIVONS CROSSEY, c’est que nous réunissons des profils variés et complémentaires, capables de comprendre les besoins de tous les habitants et d’assumer les responsabilités des nombreuses tâches de gestion d’une commune. Cette énergie collective me donne envie de franchir un cap et m’engager pleinement."*
 
 [Profil précédent]({{ '/_posts/2026-02-01_FrancoisGuillier/' | relative_url }}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Profil suivant]({{ '/_posts/2026-02-01_LaurentBouchard/' | relative_url }})
