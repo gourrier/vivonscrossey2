@@ -9,7 +9,7 @@ gallery:
     alt: "placeholder image 1"
     title: "Fabrice Hure"	
   - url: /_posts/2026-02-01_AudreyHumbert
-    image_path: /assets/images/Audrey2_small.png
+    image_path: /assets/images/Audrey2_small.jpg
     alt: "placeholder image 2"
     title: "Audrey Humbert"
   - url: /_posts/2026-02-01_FrancoisGuillier
